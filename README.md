@@ -1,16 +1,17 @@
-### Hi there 👋
+using System;
 
-<!--
-**GCarin1/GCarin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+namespace GuilhermeC
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+           string name= "Guilherme Carini";
+           Int age= 22;
+           string office= 'Tribunal de Justiça';
+           string system_operation= " Linux","Windows";
+           string city: 'São Paulo, SP',
+           
+        }
+    }
+}
