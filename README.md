@@ -1,4 +1,4 @@
-using System;
+/*using System;
 
 namespace GuilhermeC
 {
@@ -6,12 +6,17 @@ namespace GuilhermeC
     {
         static void Main(string[] args)
         {
+        
            string name= "Guilherme Carini";
+           
            Int age= 22;
+           
            string office= 'Tribunal de Justiça';
+           
            string system_operation= " Linux","Windows";
+           
            string city: 'São Paulo, SP',
            
         }
     }
-}
+}*/
