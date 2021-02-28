@@ -30,7 +30,7 @@ Meu nome é <strong>Guilherme Carini</strong>, sou programador <strong>back-end 
 
 * ***Back-end*** 
 * ***Testes automatizados***
-* ***Segurança da inforamção***
+* ***Segurança da informação***
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCarin1&layout=compact" alt="Top languages"/>
