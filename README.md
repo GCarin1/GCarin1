@@ -21,6 +21,8 @@ Meu nome é <strong>Guilherme Carini</strong>, sou programador <strong>back-end 
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="21px" height="21px"></a>
 <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/yarn.svg" alt="Yarn" width="21px" height="21px"></a>
+<a href="https://jestjs.io" title="Jest"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jest.svg" alt="Jest" width="21px" height="21px"></a>
+<a href="https://www.selenium.dev" title="Selenium"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/selenium.svg" alt="Selenium" width="21px" height="21px"></a>
 
 
 
