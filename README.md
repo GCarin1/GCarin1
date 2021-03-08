@@ -33,10 +33,11 @@ Meu nome é <strong>Guilherme Carini</strong>, sou programador <strong>back-end 
 * ***Testes automatizados***
 * ***Segurança da informação***
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCarin1&layout=compact" alt="Top languages"/>
 <dl align="center">
-  <img height="190px" alt="GuScarpim" src="https://github-readme-streak-stats.herokuapp.com/?user=GCarin1&hide_border=true&theme=dark" />
+<img height="190px" alt="GCarin1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCarin1&layout=compact" alt="Top languages"/>
+  </dl>
+<dl align="center">
+  <img height="190px" alt="GCarin1" src="https://github-readme-streak-stats.herokuapp.com/?user=GCarin1&hide_border=true&theme=dark" />
 </dl>
 
 
