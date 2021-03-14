@@ -35,9 +35,6 @@ Meu nome é <strong>Guilherme Carini</strong>, sou programador <strong>back-end 
 
 
 <dl align="center">
-  <img height="190px" alt="GCarin1" src="https://tryhackme.com/badge/390808" />
-</dl>
-<dl align="center">
   <img height="190px" alt="GCarin1" src="https://github-readme-streak-stats.herokuapp.com/?user=GCarin1&hide_border=true&theme=dark" />
 </dl>
 
