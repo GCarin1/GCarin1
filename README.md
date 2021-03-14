@@ -33,8 +33,9 @@ Meu nome é <strong>Guilherme Carini</strong>, sou programador <strong>back-end 
 * ***Back-end*** 
 * ***Testes automatizados***
 * ***Segurança da informação***
-
-
+<dl align="center">
+<img height="190px" alt="TryHackMe" src="https://tryhackme-badges.s3.amazonaws.com/virtualInsanity.png" >
+ </dl>
 <dl align="center">
   <img height="190px" alt="GCarin1" src="https://github-readme-streak-stats.herokuapp.com/?user=GCarin1&hide_border=true&theme=dark" />
 </dl>
