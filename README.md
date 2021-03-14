@@ -1,6 +1,7 @@
 ### Hello my friends! 🙋‍♂️
 
 [![Portfolio Badge](https://img.shields.io/badge/Developer-Portifólio-black)](https://github.com/GCarin1)
+[![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-black)](https://tryhackme.com/p/virtualInsanity)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-carini/)](https://www.linkedin.com/in/guilherme-carini/)
 [![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carinigcontact@gmail.com)](mailto:carinigcontact@gmail.com)
 
