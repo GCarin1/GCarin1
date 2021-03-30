@@ -28,7 +28,7 @@ Meu nome é <strong>Guilherme Carini</strong>, sou programador <strong>back-end 
 
 
 
-## ***Áreas de atuação 📚***
+## **Áreas de atuação 📚**
 
 * ***Back-end*** 
 * ***Testes automatizados***
