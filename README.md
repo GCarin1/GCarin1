@@ -6,7 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carinigcontact@gmail.com)](mailto:carinigcontact@gmail.com)
 
 
-Meu nome é <strong>Guilherme Carini</strong>, sou programador <strong>back-end 👨‍💻</strong> faço alguns projetos para Web e faço testes automatizados. Sempre procuro ajudar outros. Programar pra mim é além de hobby, e uma forma de evoluir, por isso dou o meu melhor no que faço. adoro comunidade de devs, todas tecnologias são incriveis, experimento me adapto com a que mais me atrai..
+Meu nome é <strong>Guilherme Carini</strong>, sou programador back-end👨‍💻 faço alguns projetos para a Web e testes motorizados, sempre procurando ajuda quando em dúvida. Programar é além de um hobby para mim, é uma forma de evoluir ao meu ver📈, portanto dou meu melhor no que faço.
+  Adoro a comunidade de devs, acho todas as tecnologias são incríveis e gosto de experimentar e me adotar com o que mais me atrai👨‍💻.
 
 
 <a href="https://www.microsoft.com/pt-br/windows/" title="Windows"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/microsoft-windows.svg" alt="Windows" width="21px" height="21px"></a>
