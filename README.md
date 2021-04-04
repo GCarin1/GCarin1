@@ -7,7 +7,7 @@
 
 
 Meu nome é <strong>Guilherme Carini</strong>, sou programador <strong>back-end</strong>👨‍💻 faço alguns projetos para a <strong>Web e Testes Automatizados</strong>, sempre procurando ajuda quando em dúvida. Programar é além de um hobby para mim, é uma forma de evoluir ao meu ver📈, portanto dou meu melhor no que faço.
-  Adoro a comunidade de devs, acho todas as tecnologias são incríveis e gosto de experimentar e me adotar com o que mais me atrai👨‍💻.
+  Adoro a comunidade de devs, acho todas as tecnologias são incríveis e gosto de experimentar e me adaptar com o que mais me atrai👨‍💻.
 
 
 <a href="https://www.microsoft.com/pt-br/windows/" title="Windows"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/microsoft-windows.svg" alt="Windows" width="21px" height="21px"></a>
