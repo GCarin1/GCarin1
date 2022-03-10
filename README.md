@@ -9,6 +9,8 @@ Meu nome é <strong>Guilherme </strong>, sou programador <strong>back-end</stron
 
 
 <a href="https://www.microsoft.com/pt-br/windows/" title="Windows"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/microsoft-windows.svg" alt="Windows" width="21px" height="21px"></a>
+
+<a href="https://www.microsoft.com/pt-br/windows/" title="Windows"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/cucumber.svg" alt="Cumcuber" width="21px" height="21px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" title="CSharp"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="Csharp" width="21px" height="21px"></a>
 <a href="https://www.python.org" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>
