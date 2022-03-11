@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carinigcontact@gmail.com)](mailto:carinigcontact@gmail.com)
 
 
-Meu nome é <strong>Guilherme </strong>, sou programador como hobby e trabalho como <strong>analista QA</strong>👨‍💻 faço alguns projetos pessoais📈, Adoro a comunidade de devs, acho todas as tecnologias são incríveis e gosto de experimentar e me adaptar com o que mais me atrai👨‍💻.
+Meu nome é <strong>Guilherme </strong>, sou programador como hobby e trabalho como <strong>analista QA</strong>👨‍💻 faço alguns projetos pessoais📈, Adoro a comunidade de devs, acho todas as tecnologias incríveis e gosto de experimentar e me adaptar com o que mais me atrai👨‍💻.
 
 
 <a href="https://www.microsoft.com/pt-br/windows/" title="Windows"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/microsoft-windows.svg" alt="Windows" width="21px" height="21px"></a>
