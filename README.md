@@ -5,26 +5,24 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carinigcontact@gmail.com)](mailto:carinigcontact@gmail.com)
 
 
-Meu nome é <strong>Guilherme </strong>, sou programador <strong>back-end</strong>👨‍💻 faço alguns projetos para a <strong>Web e Testes Automatizados</strong> e  possuo interesse em <strong>Segurança da Informação</strong>, sempre procurando ajuda quando em dúvida. Programar é além de um hobby para mim, é uma forma de evoluir ao meu ver📈, portanto dou meu melhor no que faço. Adoro a comunidade de devs, acho todas as tecnologias são incríveis e gosto de experimentar e me adaptar com o que mais me atrai👨‍💻.
+Meu nome é <strong>Guilherme </strong>, sou programador como hobby e trabalho como <strong>analista QA</strong>👨‍💻 faço alguns projetos pessoais📈, Adoro a comunidade de devs, acho todas as tecnologias são incríveis e gosto de experimentar e me adaptar com o que mais me atrai👨‍💻.
 
 
 <a href="https://www.microsoft.com/pt-br/windows/" title="Windows"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/microsoft-windows.svg" alt="Windows" width="21px" height="21px"></a>
-
-<a href="https://www.microsoft.com/pt-br/windows/" title="Windows"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/cucumber.svg" alt="Cumcuber" width="21px" height="21px"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
-<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" title="CSharp"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="Csharp" width="21px" height="21px"></a>
+<a href="https://www.linux.org/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/linux-tux.svg" alt="Linux" width="21px" height="21px"></a>
+<a href="https://www.java.com/pt-BR/" title="Selenium"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="21px" height="21px"></a>
 <a href="https://www.python.org" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
-<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
+<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" title="CSharp"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="Csharp" width="21px" height="21px"></a>
+<a href="https://cucumber.io/" title="Cucumber"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/cucumber.svg" alt="Cucumber" width="21px" height="21px"></a>
+<a href="https://www.selenium.dev" title="Selenium"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/selenium.svg" alt="Selenium" width="21px" height="21px"></a>
+<a href="https://www.eclipse.org/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/eclipse.svg" alt="Eclipse" width="21px" height="21px"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
-<a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React Native" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
-<a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="21px" height="21px"></a>
-<a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/yarn.svg" alt="Yarn" width="21px" height="21px"></a>
-<a href="https://jestjs.io" title="Jest"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jest.svg" alt="Jest" width="21px" height="21px"></a>
-<a href="https://www.selenium.dev" title="Selenium"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/selenium.svg" alt="Selenium" width="21px" height="21px"></a>
+<a href="https://www.atlassian.com/br/software/jira" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jira.svg" alt="Jira" width="21px" height="21px"></a>
+
+
 
 
 
