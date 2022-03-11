@@ -30,7 +30,7 @@ Meu nome é <strong>Guilherme </strong>, sou programador como hobby e trabalho c
 ## **Áreas de Interesse 📚**
 
 
-* ***Testes automatizados***
+* ***Qualidade de Software***
 * ***Segurança da informação***
 
 
