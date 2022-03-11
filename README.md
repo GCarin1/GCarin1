@@ -39,21 +39,7 @@ Meu nome é <strong>Guilherme </strong>, sou programador como hobby e trabalho c
   <img height="190px" alt="GCarin1" src="https://github-readme-streak-stats.herokuapp.com/?user=GCarin1&hide_border=true&theme=dark" />
 </dl>
 
- <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCarin1&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=GCarin1&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
+
 
 ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
@@ -67,3 +53,4 @@ Meu nome é <strong>Guilherme </strong>, sou programador como hobby e trabalho c
   ![Snake animation](https://github.com/Vkin-7/Vkin-7/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+##
