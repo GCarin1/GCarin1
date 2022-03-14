@@ -9,25 +9,19 @@
 Meu nome é <strong>Guilherme </strong>, sou programador como hobby e trabalho como <strong>analista QA</strong>👨‍💻 faço alguns projetos pessoais📈, Adoro a comunidade de devs, acho todas as tecnologias incríveis e gosto de experimentar e me adaptar com o que mais me atrai👨‍💻.
 
 
-<a href="https://www.microsoft.com/pt-br/windows/" title="Windows"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/microsoft-windows.svg" alt="Windows" width="21px" height="21px"></a>
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/microsoft-windows.svg">
-<a href="https://www.linux.org/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/linux-tux.svg" alt="Linux" width="21px" height="21px"></a>
-<a href="https://www.java.com/pt-BR/" title="Selenium"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="21px" height="21px"></a>
-<a href="https://www.python.org" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>
-<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" title="CSharp"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="Csharp" width="21px" height="21px"></a>
-<a href="https://cucumber.io/" title="Cucumber"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/cucumber.svg" alt="Cucumber" width="21px" height="21px"></a>
-<a href="https://www.selenium.dev" title="Selenium"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/selenium.svg" alt="Selenium" width="21px" height="21px"></a>
-<a href="https://www.eclipse.org/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/eclipse.svg" alt="Eclipse" width="21px" height="21px"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
-<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
-<a href="https://www.atlassian.com/br/software/jira" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jira.svg" alt="Jira" width="21px" height="21px"></a>
-
-
-
-
-
+<img align="center" alt="Windows" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/microsoft-windows.svg">
+<img align="center" alt="Linux" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/linux-tux.svg">
+<img align="center" alt="Java" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg">
+<img align="center" alt="Python" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg">
+<img align="center" alt="CSharp" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg">
+<img align="center" alt="Cucumber" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/cucumber.svg">
+<img align="center" alt="Selenium" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/selenium.svg">
+<img align="center" alt="Eclipse" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/eclipse.svg">
+<img align="center" alt="Visual Studio Code" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg">
+<img align="center" alt="HTML5" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg">
+<img align="center" alt="MySQL" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg">
+<img align="center" alt="Git" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg">
+<img align="center" alt="jira" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/jira.svg">
 
 ## **Áreas de Interesse 📚**
 
