@@ -1,4 +1,4 @@
-### Hello my friends! 🙋‍♂️
+### Olá sou Guilherme Qa assurance! 🙋‍♂️
 
 [![Portfolio Badge](https://img.shields.io/badge/Developer-Portifólio-black)](https://github.com/GCarin1)
 [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-black)](https://tryhackme.com/p/virtualInsanity)
