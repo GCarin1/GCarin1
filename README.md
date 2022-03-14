@@ -2,6 +2,7 @@
 
 [![Portfolio Badge](https://img.shields.io/badge/Developer-Portifólio-black)](https://github.com/GCarin1)
 [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-black)](https://tryhackme.com/p/virtualInsanity)
+[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/eduardojose)](https://api.whatsapp.com/send?phone=5511945638021&text=Ol%C3%A1,%20Guilherme!)
 [![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carinigcontact@gmail.com)](mailto:carinigcontact@gmail.com)
 
 
@@ -9,6 +10,7 @@ Meu nome é <strong>Guilherme </strong>, sou programador como hobby e trabalho c
 
 
 <a href="https://www.microsoft.com/pt-br/windows/" title="Windows"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/microsoft-windows.svg" alt="Windows" width="21px" height="21px"></a>
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/microsoft-windows.svg">
 <a href="https://www.linux.org/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/linux-tux.svg" alt="Linux" width="21px" height="21px"></a>
 <a href="https://www.java.com/pt-BR/" title="Selenium"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="21px" height="21px"></a>
 <a href="https://www.python.org" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>
