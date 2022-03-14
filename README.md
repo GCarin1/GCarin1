@@ -8,7 +8,7 @@
 
 Meu nome é <strong>Guilherme </strong>, sou programador como hobby e trabalho como <strong>analista QA</strong>👨‍💻 faço alguns projetos pessoais📈, Adoro a comunidade de devs, acho todas as tecnologias incríveis e gosto de experimentar e me adaptar com o que mais me atrai👨‍💻.
 
-
+<div style="display: inline_block"><br>
 <img align="center" alt="Windows" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/microsoft-windows.svg">
 <img align="center" alt="Linux" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/linux-tux.svg">
 <img align="center" alt="Java" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg">
@@ -22,6 +22,7 @@ Meu nome é <strong>Guilherme </strong>, sou programador como hobby e trabalho c
 <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg">
 <img align="center" alt="Git" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg">
 <img align="center" alt="jira" height="30" width="40" src="https://github.com/tomchen/stack-icons/blob/master/logos/jira.svg">
+</div>
 
 ## **Áreas de Interesse 📚**
 
