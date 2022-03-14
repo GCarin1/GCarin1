@@ -32,9 +32,11 @@ Meu nome é <strong>Guilherme </strong>, sou programador como hobby e trabalho c
 
 
 ## **Contribuições e Linguagens ✨**
-<dl align="center">
-  <img height="190px" alt="GCarin1" src="https://github-readme-streak-stats.herokuapp.com/?user=GCarin1&hide_border=true&theme=dark" />
-</dl>
+<div align="center">
+  <a href="https://github.com/GCarin1">
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=GCarin1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCarin1&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 
