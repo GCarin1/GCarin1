@@ -50,10 +50,4 @@ Meu nome é <strong>Guilherme </strong>, sou programador como hobby e trabalho c
   <a href="https://www.linkedin.com/in/guilherme-carini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-  # Contributions
-<h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
-	</a>
 
