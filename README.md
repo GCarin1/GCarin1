@@ -28,7 +28,8 @@ Meu nome é <strong>Guilherme </strong>, sou programador como hobby e trabalho c
 
 
 * ***Qualidade de Software***
-* ***Segurança da informação***
+* ***Automação***
+* * ***Back-end***
 
 
 ## **Contribuições e Linguagens ✨**
